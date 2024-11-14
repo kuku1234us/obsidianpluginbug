@@ -1,0 +1,11 @@
+{
+  "id": "test-plugin",
+  "name": "Test Plugin",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "description": "Test For React Tailwind.",
+  "minAppVersion": "0.12.0",
+  "js": "main.js",
+  "css": "styles.css",
+  "isDesktopOnly": false
+}
