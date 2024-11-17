@@ -20,7 +20,8 @@ The plugin fails to load on iOS devices when using React 18's `createRoot()` API
 
 ## Environment Information
 
-- Obsidian Desktop: Works ✅
-- Obsidian iOS: Fails ❌
-- React version: 18.x
+- **React Version**: ^18.3.1
+- **Obsidian Version**: 1.7.4(167) on iPhone
+- Obsidian Desktop: Works
+- Obsidian iOS: Fails
 - TypeScript version: 5.x

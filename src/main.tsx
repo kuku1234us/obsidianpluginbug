@@ -19,8 +19,8 @@ class PopupDialog extends Modal {
 
     // Create a React root and render the HelloWorldPopup component
     // This line works on Desktop, but fails on iPhone:
-    this.root = ReactDOM.createRoot(contentEl);
-    this.root.render(<div>Hello World</div>);
+    // this.root = ReactDOM.createRoot(contentEl);
+    // this.root.render(<div>Hello World</div>);
   }
 
   onCloseModal() {
